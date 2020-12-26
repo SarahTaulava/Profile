@@ -1,11 +1,11 @@
 
-html, body {background: #684551; font-family:calibri; font-size 16px; color:#F0D9D1;}
+html, body {background: #312509 font-family:calibri; font-size 16px; color:#A3BBAD;}
 
 #container {
 width: 90%
 padding:30px 
 max-width: 800px;
-background: #684551;
+background: #0E3B43;
 margin: 30px auto;
 }
 
@@ -29,8 +29,9 @@ padding: 20px 0 0;
 padding: 25px 35px;
 border-bottom: 2px solid #779FA1;
 background:#1B434B
+}
 
 #details {
 width: 70%
 background:#9AD5CA; 
-
+}
