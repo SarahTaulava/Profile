@@ -1,7 +1,7 @@
 
 html, body {background: #1B434B; font-family:calibri; font-size 16px; color:#779FA1;}
 
-.container {
+#container {
 width: 90%;
 max-width: 800px;
 background: #F0D9D1;
@@ -22,7 +22,7 @@ border-top: 1px solid #9AD5CA;
 padding: 20px 0 0;
 }
 
-.personalDetails {
+#personalDetails {
 padding: 25px 35px;
 border-bottom: 2px solid #779FA1;
 background:#9AD5CA
