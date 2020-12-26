@@ -11,16 +11,17 @@ margin: 30px auto;
 
 p {
 width:90%
-background:779FA1
+max width:800px;
+background:779FA1;
 line-height:1.4em;
 margin-bottom:20px;
 font-family: Calibri;
 font-size:1em;
-color: #F0D9D1
+color: #F0D9D1;
 }
 
 section {
-border-top: 1px solid #1B434B
+border-top: 1px solid #1B434B;
 padding: 20px 0 0;
 }
 
@@ -31,5 +32,5 @@ background:#1B434B
 
 #details {
 width: 70%
-background:#9AD5CA 
+background:#9AD5CA; 
 
