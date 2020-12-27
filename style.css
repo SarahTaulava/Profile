@@ -13,14 +13,14 @@ margin: 30px auto;
 }
 
 section {
-border-top: 1px solid #1B434B;
-padding: 20px 20px 20px 20px;
+border-top: 1px solid #155965;
+padding: 10px
 }
 
 .personalDetails {
 padding: 25px 35px;
 border-bottom: 2px solid #779FA1;
-background:#1B434B;
+background:#9AD5CA;
 }
 
 .details {
@@ -32,7 +32,7 @@ background:#9AD5CA;
 font-size:2.5em;
 font-weight: 700;
 font family:Arial, sans-serif;
-margin-bottom: -6px;
+
 } 
 
 .sectionTitle h2 {
