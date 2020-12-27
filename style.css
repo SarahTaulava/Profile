@@ -17,17 +17,20 @@ margin: 30px auto;
 	height: auto;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
+}
+
+#personalDetails {
+padding: 25px 35px;
+border-bottom: 2px solid #779FA1;
+background:#9AD5CA;
+}
+
 
 section {
 border-top: 1px solid #155965;
 padding: 10px
 }
 
-.personalDetails {
-padding: 25px 35px;
-border-bottom: 2px solid #779FA1;
-background:#9AD5CA;
-}
 
 .details {
 width: 70%;
