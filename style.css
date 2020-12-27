@@ -1,5 +1,8 @@
+article,section{
+display:block;
+}
 
-html, body {background: #0E3B43 font-family:calibri; font-size 16px; color:#F0D9D1;}
+html, body {background: #0E3B43 font-family:arial, sans-serif; font-size 16px; color:#F0D9D1;}
 
 #container {
 width: 80%;
@@ -17,14 +20,14 @@ max width:800px;
 background:779FA1;
 line-height:1.4em;
 margin-bottom:20px;
-font-family: Calibri;
+font-family: arial,sans-serif;
 font-size:1em;
 color: #F0D9D1;
 }
 
 section {
 border-top: 1px solid #1B434B;
-padding: 20px 20px 20px;
+padding: 20px 20px 20px 20px;
 }
 
 .personalDetails {
