@@ -32,6 +32,7 @@ color: #9AD5CA;
 #detailsList ul {
 font-family: arial, sans-serif;
 font-size: 1em;
+float:left;
 }
 
 
@@ -43,7 +44,7 @@ padding: 10px
 
 .details {
 width: 70%;
-background:#9AD5CA; 
+background:#779FA1; 
 }
 
 h1 {
