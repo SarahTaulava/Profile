@@ -10,7 +10,9 @@ margin: 30px auto;
 }
 
 p {
-width:90%
+width:70%
+padding: 30px
+border:30px solid #1B434B
 max width:800px;
 background:779FA1;
 line-height:1.4em;
@@ -22,7 +24,7 @@ color: #F0D9D1;
 
 section {
 border-top: 1px solid #1B434B;
-padding: 20px 0 0;
+padding: 20px 20px 20px;
 }
 
 .personalDetails {
