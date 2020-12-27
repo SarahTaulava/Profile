@@ -12,6 +12,12 @@ background: #155965;
 margin: 30px auto;
 }
 
+#photo img {
+	width: 100%;
+	height: auto;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+
 section {
 border-top: 1px solid #155965;
 padding: 10px
