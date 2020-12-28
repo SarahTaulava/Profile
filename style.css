@@ -1,4 +1,4 @@
-article,section{
+article, section{
 display:block;
 }
 
@@ -11,6 +11,12 @@ background: #155965;
 margin: 30px auto;
 }
 
+#mainArea {
+font-family: Arial, sans-serif;
+font-size: 1em;
+background: #155965;
+}
+
 #photo img {
 	width: 100%;
 	height: auto;
@@ -20,7 +26,7 @@ margin: 30px auto;
 }
 
 p {
-width:80%;
+width:90%;
 max width:800px;
 background: #155965;
 line-height:1.4em;
@@ -45,17 +51,13 @@ font-size: 1em;
 float:left;
 }
 
-#fun fact {
+#funFact {
 font-family: arial, sans-serif;
 font-size: 1em;
 float:left;
 }
 
-#mainArea {
-font-family: Arial, sans-serif;
-font-size: 1em;
-background: #155965;
-}
+
 
 .sectionTitle {
 float: left;
