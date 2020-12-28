@@ -20,6 +20,17 @@ margin: 30px auto;
 	float:right;
 }
 
+p {
+width:80%;
+max width:800px;
+background:155965;
+line-height:1.4em;
+margin-bottom:20px;
+font-family: arial,sans-serif;
+font-size:1em;
+color: #F0D9D1;
+}
+
 #personalDetails {
 padding: 25px 35px;
 border-bottom: 2px solid #779FA1;
@@ -61,7 +72,10 @@ font-family: Arial, sans-serif;
 font-size: 1em;
 }
 
-
+#references {
+font-family: Arial, sans-serif;
+font-size: 1em;
+}
 
 .sectionTitle {
 float: left;
@@ -126,15 +140,6 @@ margin-left:2px;
 font-family: Arial, sans-serif;
 }
 
-p {
-width:80%;
-max width:800px;
-background:155965;
-line-height:1.4em;
-margin-bottom:20px;
-font-family: arial,sans-serif;
-font-size:1em;
-color: #F0D9D1;
-}
+
 
 
