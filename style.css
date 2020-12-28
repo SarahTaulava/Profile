@@ -89,11 +89,11 @@ width: 72.5%;
 .sectionContent img {
 	border: 2px solid #9AD5CA;
 }
-section {
-border-top: 1px solid #9AD5CA;
-padding: 10px;
-}
 
+section {
+	border-top: 1px solid #5BC0BE;
+	padding: 20px 0 0;
+}
 
 h1 {
 font-size:1.5em;
