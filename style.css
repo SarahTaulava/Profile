@@ -2,12 +2,11 @@ article,section{
 display:block;
 }
 
-html, body {background: #453643 font-family: arial, sans-serif; font-size 14px; color: #F0D9D1;}
+html, body {background: #453643; font-family: arial, sans-serif; font-size 14px; color: #F0D9D1;}
 
 #container {
-width: 80%;
-padding:40px; 
-max-width: 1200px;
+width: 90%;
+max-width: 800px;
 background: #155965;
 margin: 30px auto;
 }
