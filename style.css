@@ -57,8 +57,6 @@ font-size: 1em;
 float:left;
 }
 
-
-
 .sectionTitle {
 float: left;
 width: 25%;
@@ -84,7 +82,7 @@ width: 72.5%;
 .sectionContent h3 {
 	font-family: Arial, sans-serif;
 	font-style: italic;
-	font-size: 1.1em;
+	font-size: 1em;
 	margin-bottom: -2px;
 }
 
@@ -96,11 +94,6 @@ border-top: 1px solid #9AD5CA;
 padding: 10px;
 }
 
-
-.details {
-width: 70%;
-background:#779FA1; 
-}
 
 h1 {
 font-size:1.5em;
