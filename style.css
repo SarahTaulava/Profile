@@ -51,29 +51,10 @@ font-size: 1em;
 float:left;
 }
 
-#interestInIT {
+#mainArea {
 font-family: Arial, sans-serif;
 font-size: 1em;
-}
-
-#idealJob {
-font-family: Arial, sans-serif;
-font-size: 1em;
-}
-
-#personalProfile {
-font-family: Arial, sans-serif;
-font-size: 1em;
-}
-
-#projectOverview {
-font-family: Arial, sans-serif;
-font-size: 1em;
-}
-
-#references {
-font-family: Arial, sans-serif;
-font-size: 1em;
+background: #155965;
 }
 
 .sectionTitle {
@@ -89,7 +70,7 @@ color: #9AD5CA;
 
 .sectionContent {
 float: right; 
-width: 70%;
+width: 72.5%;
 }
 
 .sectionContent h2 {
@@ -106,10 +87,10 @@ width: 70%;
 }
 
 .sectionContent img {
-	border: 2px solid #50AAA9;
+	border: 2px solid #9AD5CA;
 }
 section {
-border-top: 1px solid #155965;
+border-top: 1px solid #9AD5CA;
 padding: 10px;
 }
 
@@ -137,6 +118,7 @@ h3 {
 font-size: 1em;
 margin-left:2px;
 font-family: Arial, sans-serif;
+font-style: italics;
 }
 
 
