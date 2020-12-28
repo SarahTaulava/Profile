@@ -6,8 +6,8 @@ html, body {background: #453643 font-family: arial, sans-serif; font-size 14px; 
 
 #container {
 width: 80%;
-padding:30px; 
-max-width: 1000px;
+padding:40px; 
+max-width: 1200px;
 background: #155965;
 margin: 30px auto;
 }
@@ -45,6 +45,22 @@ float:left;
 font-family: Arial, sans-serif;
 font-size: 1em;
 }
+
+#idealJob {
+font-family: Arial, sans-serif;
+font-size: 1em;
+}
+
+#personalProfile {
+font-family: Arial, sans-serif;
+font-size: 1em;
+}
+
+#projectOverview {
+font-family: Arial, sans-serif;
+font-size: 1em;
+}
+
 
 
 .sectionTitle {
@@ -111,9 +127,9 @@ font-family: Arial, sans-serif;
 }
 
 p {
-width:90%;
+width:80%;
 max width:800px;
-background:779FA1;
+background:155965;
 line-height:1.4em;
 margin-bottom:20px;
 font-family: arial,sans-serif;
