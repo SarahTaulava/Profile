@@ -41,6 +41,12 @@ font-size: 1em;
 float:left;
 }
 
+#interestInIT {
+font-family: Arial, sans-serif;
+font-size: 1em;
+}
+
+
 .sectionTitle {
 float: left;
 width: 25%;
