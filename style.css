@@ -46,9 +46,10 @@ p {
 #name h2 {
 	font-size: 2em;
 	margin-left: 2px;
-	color: #0A2D33
+	color: #0A2D33;
 	font-family: Helvetica, Arial, sans-serif;
 }
+
 #mainArea {
 	padding: 0 40px;
 }
@@ -78,7 +79,7 @@ p {
 	list-style-type: none;
 	font-size: 0.9em;
 	margin-top: 2px;
-	color: #0A2D33
+	color: #0A2D33;
 }
 
 #contactDetails ul li {
