@@ -40,6 +40,7 @@ p {
 	font-weight: 700;
 	font-family: Helvetica, Arial, sans-serif;
 	margin-bottom: -6px;
+	color:#0A2D33
 }
 
 #name h2 {
@@ -47,7 +48,6 @@ p {
 	margin-left: 2px;
 	color: #0A2D33
 	font-family: Helvetica, Arial, sans-serif;
-}
 
 #mainArea {
 	padding: 0 40px;
@@ -87,7 +87,7 @@ p {
 }
 
 #contactDetails ul li a, a[href^=tel] {
-	color: #F0D9D1; 
+	color: #0A2D33; 
 	text-decoration: none;
 	-webkit-transition: all .3s ease-in;
 	-moz-transition: all .3s ease-in;
@@ -97,7 +97,7 @@ p {
 }
 
 #contactDetails ul li a:hover { 
-	color: #795663;
+	color: #0A2D33;
 }
 
 
